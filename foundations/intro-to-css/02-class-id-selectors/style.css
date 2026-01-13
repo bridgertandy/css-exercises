@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+
+.class1 {
+    background-color: rgb(250,0,100);
+    font-family: "Verdana", "DejaVu Sans", "sans-serif";
+}
+
+#id1 {
+    color: hsl(240,50%,50%);
+    font-size: 36px;
+}
+
+#id2 {
+    font-size: 24px;
+}
+
+#id3 {
+    background-color: rgba(0,200,0,.7);
+    font-size: 24px;
+    font-weight: 900;
+}
